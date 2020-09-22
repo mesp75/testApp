@@ -1,0 +1,8 @@
+{
+  "name": "testApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "custom",
+  "id": "65960aea"
+}
